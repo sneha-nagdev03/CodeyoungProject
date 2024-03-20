@@ -1,0 +1,99 @@
+a {
+    text-decoration: none;
+    padding-left: 200px;
+    color: black;
+}
+
+.contactUs_p2 form {
+    width: 50%;
+    padding: 50px 100px;
+
+}
+
+fieldset {
+    text-align: left;
+}
+
+table tr .ip,
+textarea {
+    width: 85%;
+}
+
+input,
+textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 95%;
+}
+
+button {
+    width: 50%;
+    padding: 10px;
+    background-color: #c92f2f;
+    color: white;
+    border: none;
+    font-weight: bold;
+}
+
+span {
+    color: red;
+    font-size: 18px;
+}
+
+.part1 {
+    padding-left: 120px;
+    padding-top: 50px;
+}
+
+.divFooter {
+    background-color: #1d0b0b;
+    height: 225px;
+}
+
+.afooter {
+    color: grey;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.pfooter {
+    width: 300px;
+    padding-left: 150px;
+    padding-right: 150px;
+    color: grey;
+}
+
+.divFooter_p2 {
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: -40px;
+}
+
+.tdfooter {
+    padding-left: 100px;
+    color: grey;
+}
+
+.imgfooter {
+    padding-top: 20px;
+    color: white;
+}
+
+.thfooter {
+    position: relative;
+    left: 11%;
+    color: white;
+}
+
+.thfooter_2 {
+    position: relative;
+    left: 31%;
+    color: white;
+}
+
+.mainMenu {
+    box-shadow: 0 3px 15px 0 rgba(0, 0, 0, 0.15);
+    height: 125px;
+}

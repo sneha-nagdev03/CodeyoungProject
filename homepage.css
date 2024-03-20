@@ -1,0 +1,165 @@
+.a1 {
+    text-decoration: none;
+    padding-left: 200px;
+    color: black;
+}
+
+.subDiv {
+    width: 90%;
+    margin: 0 10%;
+
+}
+
+.part3 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    border-radius: 2%;
+}
+
+.part3 img {
+    width: 70%;
+}
+
+.part3 p {
+    width: 70%;
+}
+
+.part4 {
+    background-image: url('/Image/backgroundimage.jpg');
+    height: 400px;
+    background-color: black;
+}
+
+button {
+    background-color: white;
+    border: none;
+    color: firebrick;
+    height: 40px;
+    width: 150px;
+    font-family: Segoe UI;
+    font-weight: bolder;
+    border-radius: 4%;
+}
+
+.part1 {
+    padding-left: 120px;
+    padding-top: 50px;
+}
+
+.part4 {
+    padding-top: 50px;
+}
+
+.part5 {
+    display: flex;
+    flex-direction: column;
+}
+
+.part5_2 table {
+    text-align: center;
+}
+
+.part5_2 table tr td img {
+    width: 60%;
+    text-align: center;
+}
+
+.sermons-date {
+    transition-duration: 500ms;
+    box-shadow: 0 3px 15px 0 rgba(0, 0, 0, 0.15);
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    position: relative;
+    left: 22%;
+    top: -60px;
+    background-color: #ffffff;
+}
+
+.sermons-date:hover {
+    position: relative;
+    top: -75px;
+    background-color: firebrick;
+    color: white;
+}
+
+.sermons-date h6 {
+    transition-duration: 500ms;
+    margin-bottom: 0;
+    text-align: center;
+    font-weight: 600;
+    color: #636363;
+}
+
+.sermons-date h6 span {
+    transition-duration: 500ms;
+    display: block;
+    font-size: 36px;
+    font-weight: 700;
+    color: #1f1f2c;
+}
+
+.sermons-date h6:hover,
+.sermons-date h6 span:hover {
+    color: white;
+}
+
+.a2 {
+    text-decoration: none;
+    color: firebrick;
+}
+
+.divFooter {
+    background-color:#1d0b0b;
+    height:225px;
+}
+
+.afooter {
+    color:grey;
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.pfooter {
+    width: 300px;
+    padding-left: 150px;
+    padding-right: 150px;
+    color:grey;
+}
+
+.divFooter_p2 {
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom:-40px;
+}
+
+.tdfooter {
+    padding-left: 100px;
+    color:grey;
+}
+
+.imgfooter {
+    padding-top:20px;
+    color:white;
+}
+
+.thfooter {
+    position: relative;
+    left: 11%;
+    color:white;
+}
+
+.thfooter_2 {
+    position: relative;
+    left: 31%;
+    color:white;
+}
+
+.mainMenu {
+    box-shadow: 0 3px 15px 0 rgba(0, 0, 0, 0.15);
+    height:125px;
+}
